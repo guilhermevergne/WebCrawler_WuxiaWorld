@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ryycgNbGnLfqv1WQ7UL+jEn8yBOmZSNKFztmQ+woob0Pr4cQFlelbfhyFIY+MKWuLUe778DPpvtf2TrQluK3A==",
+  "dgSpecHash": "oNI8biPuezyJnPRl90LLWN+W/cYI5iGzTvZYF1UTAoAnSivLaQEv3GLSuL/ahJKivbzHibCikA+5EEdeOF6sig==",
   "success": true,
-  "projectFilePath": "E:\\Documents\\Github\\WebCrawlerzada\\WebCrawlerzada\\WebCrawlerzada.csproj",
+  "projectFilePath": "E:\\Documents\\Github\\WebCrawlerzada\\WebCrawler_WuxiaWorld\\WebCrawlerzada\\WebCrawlerzada.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",

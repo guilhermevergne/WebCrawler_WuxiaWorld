@@ -6790,11 +6790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documents\\Github\\WebCrawlerzada\\WebCrawlerzada\\WebCrawlerzada.csproj",
+      "projectUniqueName": "E:\\Documents\\Github\\WebCrawlerzada\\WebCrawler_WuxiaWorld\\WebCrawlerzada\\WebCrawlerzada.csproj",
       "projectName": "WebCrawlerzada",
-      "projectPath": "E:\\Documents\\Github\\WebCrawlerzada\\WebCrawlerzada\\WebCrawlerzada.csproj",
+      "projectPath": "E:\\Documents\\Github\\WebCrawlerzada\\WebCrawler_WuxiaWorld\\WebCrawlerzada\\WebCrawlerzada.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "E:\\Documents\\Github\\WebCrawlerzada\\WebCrawlerzada\\obj\\",
+      "outputPath": "E:\\Documents\\Github\\WebCrawlerzada\\WebCrawler_WuxiaWorld\\WebCrawlerzada\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
